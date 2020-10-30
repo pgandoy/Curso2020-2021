@@ -1,4 +1,4 @@
-- Pablo Gandoy Garces (pgandoy)
+- Pablo Gandoy Garcés (pgandoy)
 - Henar Román Serna (HenarR)
 - Marta Ruiz Pérez (Marta-rp)
 - María Sánchez Duro (merysan1999)
